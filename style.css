@@ -1,0 +1,23 @@
+body
+{
+	background: lightblue;
+}
+#capture{
+    background-color:red;
+    font-size: 20px;
+    width:auto;
+    
+}
+#identify{
+    background-color: orangered;
+    font-size: 20px;
+    width:auto;
+}
+#camera,#result{
+    border: 3px ; 
+    border-style:solid;
+    width: 350px;
+    height: 300px;
+ 
+}
+
